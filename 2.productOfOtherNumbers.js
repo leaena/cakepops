@@ -1,3 +1,8 @@
+/*
+  Write a function getProductsOfAllIntsExceptAtIndex() that takes an array of
+  integers and returns an array of the products. No division.
+*/
+
 function getProductsOfAllIntsExceptAtIndex(values) {
   var productOfIndexes = [];
   var productBefore = 1;
